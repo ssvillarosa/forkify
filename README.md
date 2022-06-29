@@ -1,5 +1,5 @@
 ﻿# forkify Project
 
-Recipe application with custom recipe uploads.
+Features asynchronous JS operations and MVC pattern.
 
-Checkout at https://forkify-steven.netlify.app
+Checkout at https://forkify-demo-site.netlify.app/
